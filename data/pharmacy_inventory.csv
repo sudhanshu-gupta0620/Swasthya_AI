@@ -1,0 +1,43 @@
+pharmacy_id,brand_name,salt_composition,in_stock,quantity_available,last_updated
+PH001,DOLO 650,Paracetamol,Yes,150,2024-01-15
+PH001,Crocin Advance,Paracetamol,Yes,80,2024-01-15
+PH001,Azithral 500,Azithromycin,Yes,45,2024-01-15
+PH001,Azee 500,Azithromycin,Yes,60,2024-01-15
+PH001,Augmentin 625,Amoxicillin+Clavulanic Acid,No,0,2024-01-15
+PH001,Moxikind CV,Amoxicillin+Clavulanic Acid,Yes,35,2024-01-15
+PH001,Lipitor 10,Atorvastatin,Yes,25,2024-01-15
+PH001,Atorva 10,Atorvastatin,Yes,90,2024-01-15
+PH001,Omez 20,Omeprazole,Yes,110,2024-01-15
+PH001,Pan 40,Pantoprazole,Yes,95,2024-01-15
+PH002,DOLO 650,Paracetamol,Yes,200,2024-01-15
+PH002,Paracip 650,Paracetamol,Yes,120,2024-01-15
+PH002,Azithral 500,Azithromycin,No,0,2024-01-15
+PH002,Azee 500,Azithromycin,Yes,75,2024-01-15
+PH002,Augmentin 625,Amoxicillin+Clavulanic Acid,Yes,40,2024-01-15
+PH002,Clavam 625,Amoxicillin+Clavulanic Acid,Yes,55,2024-01-15
+PH002,Crestor 10,Rosuvastatin,Yes,30,2024-01-15
+PH002,Rozavel 10,Rosuvastatin,Yes,85,2024-01-15
+PH002,Norvasc 5,Amlodipine,Yes,20,2024-01-15
+PH002,Amlip 5,Amlodipine,Yes,95,2024-01-15
+PH003,DOLO 650,Paracetamol,No,0,2024-01-15
+PH003,Febrex,Paracetamol,Yes,65,2024-01-15
+PH003,Calpol 650,Paracetamol,Yes,45,2024-01-15
+PH003,Azibact 500,Azithromycin,Yes,50,2024-01-15
+PH003,Zyrtec,Cetirizine,Yes,30,2024-01-15
+PH003,Okacet,Cetirizine,Yes,100,2024-01-15
+PH003,Alerid,Cetirizine,Yes,80,2024-01-15
+PH003,Metrogyl 400,Metronidazole,Yes,70,2024-01-15
+PH003,Flagyl 400,Metronidazole,Yes,40,2024-01-15
+PH004,Pan 40,Pantoprazole,Yes,55,2024-01-15
+PH004,Pantocid 40,Pantoprazole,Yes,70,2024-01-15
+PH004,Razo 20,Rabeprazole,Yes,45,2024-01-15
+PH004,Glycomet 500,Metformin,Yes,200,2024-01-15
+PH004,Glucophage,Metformin,Yes,30,2024-01-15
+PH004,Nise 100,Nimesulide,Yes,85,2024-01-15
+PH004,Nimulid 100,Nimesulide,Yes,90,2024-01-15
+PH005,Ecosprin 75,Aspirin,Yes,150,2024-01-15
+PH005,Loprin 75,Aspirin,Yes,120,2024-01-15
+PH005,Deplatt A 75,Aspirin+Atorvastatin,Yes,45,2024-01-15
+PH005,Ecosprin AV,Aspirin+Atorvastatin,Yes,38,2024-01-15
+PH005,Shelcal 500,Calcium Carbonate+Vit D3,Yes,60,2024-01-15
+PH005,Calcirol,Cholecalciferol,Yes,75,2024-01-15

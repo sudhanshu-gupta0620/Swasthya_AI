@@ -1,0 +1,16 @@
+pharmacy_id,name,address,city,state,pincode,latitude,longitude,phone,open_hours,home_delivery
+PH001,MedPlus Pharmacy,Shop 12 Koramangala 4th Block,Bangalore,Karnataka,560034,12.9352,77.6245,9876543210,8AM-10PM,Yes
+PH002,Apollo Pharmacy,HSR Layout Sector 2,Bangalore,Karnataka,560102,12.9116,77.6389,9876543211,24 Hours,Yes
+PH003,Wellness Forever,Indiranagar 100ft Road,Bangalore,Karnataka,560038,12.9784,77.6408,9876543212,8AM-11PM,Yes
+PH004,Frank Ross Pharmacy,Whitefield Main Road,Bangalore,Karnataka,560066,12.9698,77.7499,9876543213,9AM-9PM,No
+PH005,Noble Chemist,BTM Layout 2nd Stage,Bangalore,Karnataka,560076,12.9165,77.6101,9876543214,8AM-10PM,Yes
+PH006,Sai Medical Store,Andheri West SV Road,Mumbai,Maharashtra,400058,19.1136,72.8697,9876543215,8AM-10PM,No
+PH007,Sahyadri Pharmacy,Bandra Linking Road,Mumbai,Maharashtra,400050,19.0596,72.8295,9876543216,24 Hours,Yes
+PH008,Lifeline Pharmacy,Powai Hiranandani,Mumbai,Maharashtra,400076,19.1176,72.9060,9876543217,9AM-11PM,Yes
+PH009,Jan Aushadhi Kendra,Connaught Place,Delhi,Delhi,110001,28.6315,77.2167,9876543218,9AM-6PM,No
+PH010,Dabur Pharmacy,Lajpat Nagar Central Market,Delhi,Delhi,110024,28.5665,77.2433,9876543219,9AM-9PM,Yes
+PH011,Green Cross Pharmacy,Anna Nagar 2nd Avenue,Chennai,Tamil Nadu,600040,13.0850,80.2101,9876543220,8AM-10PM,Yes
+PH012,Usman Pharmacy,T Nagar Pondy Bazaar,Chennai,Tamil Nadu,600017,13.0418,80.2341,9876543221,8AM-11PM,No
+PH013,Medipoint Pharmacy,Salt Lake Sector 5,Kolkata,West Bengal,700091,22.5697,88.4343,9876543222,9AM-9PM,Yes
+PH014,Baidyanath Medical,Gariahat Road,Kolkata,West Bengal,700019,22.5195,88.3632,9876543223,8AM-10PM,No
+PH015,Pushpa Medical,CG Road Navrangpura,Ahmedabad,Gujarat,380009,23.0354,72.5640,9876543224,8AM-10PM,Yes

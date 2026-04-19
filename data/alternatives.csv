@@ -1,0 +1,21 @@
+brand_name,salt_composition,alternative_brand,alternative_price,savings_percentage
+DOLO 650,Paracetamol,Paracip 650,22,26.7
+DOLO 650,Paracetamol,Febrex,24,20.0
+DOLO 650,Paracetamol,Calpol 650,28,6.7
+Azithral 500,Azithromycin,Azee 500,130,10.3
+Azithral 500,Azithromycin,Azifast 500,128,11.7
+Azithral 500,Azithromycin,Azibact 500,135,6.9
+Augmentin 625,Amoxicillin+Clavulanic Acid,Moxikind CV,185,11.9
+Augmentin 625,Amoxicillin+Clavulanic Acid,Clavam 625,195,7.1
+Augmentin 625,Amoxicillin+Clavulanic Acid,Novamox CV,188,10.5
+Lipitor 10,Atorvastatin,Atorva 10,45,47.1
+Lipitor 10,Atorvastatin,Storvas 10,48,43.5
+Lipitor 10,Atorvastatin,Tonact 10,42,50.6
+Crestor 10,Rosuvastatin,Rozavel 10,95,34.5
+Crestor 10,Rosuvastatin,Rosutor 10,88,39.3
+Norvasc 5,Amlodipine,Amlip 5,35,53.3
+Norvasc 5,Amlodipine,Amlong 5,32,57.3
+Norvasc 5,Amlodipine,Stamlo 5,38,49.3
+Zyrtec,Cetirizine,Okacet,18,60.0
+Zyrtec,Cetirizine,Alerid,20,55.6
+Zyrtec,Cetirizine,Cetzine,22,51.1

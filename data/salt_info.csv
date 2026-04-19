@@ -1,0 +1,41 @@
+salt_composition,common_use,how_it_works,side_effects,take_with_food,max_daily_dose,drug_class
+Paracetamol,Fever and mild to moderate pain,Blocks pain signals in brain and reduces fever,Rare at normal doses. Avoid alcohol,No but food helps,4000mg,Analgesic
+Azithromycin,Bacterial infections like pneumonia and sinusitis,Kills bacteria by stopping protein production,Nausea stomach upset diarrhea,Yes,500mg,Macrolide Antibiotic
+Amoxicillin+Clavulanic Acid,Bacterial infections resistant to regular antibiotics,Kills bacteria and blocks resistance enzyme,Diarrhea rash nausea,Yes,2000mg,Penicillin Antibiotic
+Omeprazole,Acidity GERD and stomach ulcers,Reduces stomach acid production,Headache nausea diarrhea,Before meals,40mg,Proton Pump Inhibitor
+Pantoprazole,Acidity GERD and stomach ulcers,Reduces stomach acid production,Headache diarrhea,Before meals,80mg,Proton Pump Inhibitor
+Metformin,Type 2 diabetes blood sugar control,Reduces glucose production in liver,Nausea diarrhea stomach upset,Yes always,2000mg,Biguanide
+Atorvastatin,High cholesterol prevention of heart disease,Blocks cholesterol production in liver,Muscle pain liver issues,Evening meal,80mg,Statin
+Rosuvastatin,High cholesterol prevention of heart disease,Blocks cholesterol production in liver,Muscle pain,Evening meal,40mg,Statin
+Amlodipine,High blood pressure and chest pain,Relaxes blood vessels for easier blood flow,Swelling ankle flushing,No,10mg,Calcium Channel Blocker
+Telmisartan,High blood pressure kidney protection,Blocks hormone that tightens blood vessels,Dizziness back pain,No,80mg,ARB
+Cetirizine,Allergies hay fever urticaria,Blocks histamine to reduce allergy symptoms,Drowsiness dry mouth,No,10mg,Antihistamine
+Levocetirizine,Allergies hay fever urticaria,Blocks histamine with less drowsiness,Mild drowsiness,No,5mg,Antihistamine
+Ibuprofen,Pain inflammation fever,Blocks prostaglandins that cause pain and fever,Stomach irritation,Yes always,1200mg,NSAID
+Diclofenac,Pain arthritis inflammation,Blocks pain causing enzymes,Stomach irritation,Yes always,150mg,NSAID
+Nimesulide,Pain fever inflammation,Selective COX-2 inhibitor for pain,Stomach upset liver issues,Yes always,200mg,NSAID
+Levothyroxine,Hypothyroidism thyroid hormone replacement,Replaces missing thyroid hormone,Palpitations if overdosed,Empty stomach,As prescribed,Thyroid hormone
+Escitalopram,Depression anxiety panic disorder,Increases serotonin in brain,Nausea insomnia dry mouth,No,20mg,SSRI
+Metoprolol,High blood pressure heart failure angina,Slows heart rate and reduces blood pressure,Fatigue cold hands dizziness,Yes,200mg,Beta Blocker
+Losartan,High blood pressure kidney protection,Blocks angiotensin to relax blood vessels,Dizziness high potassium,No,100mg,ARB
+Montelukast,Asthma and allergic rhinitis,Blocks leukotrienes that cause airway inflammation,Headache stomach pain,Evening,10mg,Leukotriene Receptor Antagonist
+Aspirin,Pain fever blood clot prevention,Blocks platelet aggregation and prostaglandins,Stomach bleeding,Yes always,4000mg,Antiplatelet/NSAID
+Fexofenadine,Allergies hay fever urticaria,Non-drowsy antihistamine,Headache nausea,No,180mg,Antihistamine
+Domperidone,Nausea vomiting bloating,Speeds up stomach emptying,Dry mouth headache,Before meals,30mg,Antiemetic
+Ondansetron,Nausea vomiting chemotherapy,Blocks serotonin receptors that trigger nausea,Constipation headache,No,24mg,5-HT3 Antagonist
+Clonazepam,Epilepsy anxiety panic attacks,Enhances calming effect in brain,Drowsiness dizziness,No,20mg,Benzodiazepine
+Albendazole,Intestinal worm infections,Kills worms by blocking their energy,Nausea stomach pain,With fatty meal,400mg,Antiparasitic
+Ciprofloxacin,Bacterial infections UTI,Kills bacteria by blocking DNA replication,Nausea diarrhea,No milk,1500mg,Fluoroquinolone
+Cefixime,Bacterial infections ear throat UTI,Kills bacteria by breaking cell wall,Diarrhea nausea,No,400mg,Cephalosporin
+Prednisolone,Inflammation autoimmune allergies,Suppresses immune system response,Weight gain blood sugar,Yes always,As prescribed,Corticosteroid
+Ranitidine,Acidity heartburn ulcers,Reduces stomach acid production,Headache constipation,Before meals,300mg,H2 Blocker
+Terbinafine,Fungal infections of skin and nails,Kills fungi by damaging their cell membrane,Skin irritation,No,250mg,Antifungal
+Tamsulosin,Enlarged prostate difficulty urinating,Relaxes prostate and bladder muscles,Dizziness low BP,After meal,0.4mg,Alpha Blocker
+Empagliflozin,Type 2 diabetes,Removes excess sugar through urine,UTI genital infections,No,25mg,SGLT2 Inhibitor
+Dapagliflozin,Type 2 diabetes,Removes excess sugar through urine,UTI genital infections,No,10mg,SGLT2 Inhibitor
+Fenofibrate,High triglycerides,Reduces fat production in liver,Stomach upset muscle pain,Yes,145mg,Fibrate
+Ezetimibe,High cholesterol,Blocks cholesterol absorption in intestine,Stomach pain diarrhea,No,10mg,Cholesterol Absorption Inhibitor
+Moxifloxacin,Respiratory infections,Kills bacteria by blocking DNA replication,Nausea dizziness,No,400mg,Fluoroquinolone
+Levofloxacin,Bacterial infections,Kills bacteria by blocking DNA replication,Nausea diarrhea,No,750mg,Fluoroquinolone
+Metronidazole,Bacterial and parasitic infections,Kills bacteria and parasites,Metallic taste nausea,Yes,2000mg,Nitroimidazole
+Cephalexin,Bacterial infections skin UTI,Kills bacteria by breaking cell wall,Diarrhea nausea,No,4000mg,Cephalosporin

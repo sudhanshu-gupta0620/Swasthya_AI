@@ -1,0 +1,202 @@
+brand_name,salt_composition,strength,form,manufacturer,avg_price_inr,category,prescription_required,safety_switch,switch_risk_level,common_use
+DOLO 650,Paracetamol,650mg,Tablet,Micro Labs,30,Analgesic/Antipyretic,No,Yes,Low,Fever and mild pain relief
+Crocin Advance,Paracetamol,500mg,Tablet,GSK,25,Analgesic/Antipyretic,No,Yes,Low,Fever and mild pain relief
+Calpol 650,Paracetamol,650mg,Tablet,GSK,28,Analgesic/Antipyretic,No,Yes,Low,Fever and mild pain relief
+Paracip 650,Paracetamol,650mg,Tablet,Cipla,22,Analgesic/Antipyretic,No,Yes,Low,Fever and mild pain relief
+Metacin,Paracetamol,500mg,Tablet,Pfizer,20,Analgesic/Antipyretic,No,Yes,Low,Fever and mild pain relief
+Febrex,Paracetamol,650mg,Tablet,Indoco,24,Analgesic/Antipyretic,No,Yes,Low,Fever and mild pain relief
+Pacimol,Paracetamol,650mg,Tablet,Ipca,21,Analgesic/Antipyretic,No,Yes,Low,Fever and mild pain relief
+Pyrigesic,Paracetamol,650mg,Tablet,East India,20,Analgesic/Antipyretic,No,Yes,Low,Fever and mild pain relief
+Azithral 500,Azithromycin,500mg,Tablet,Alembic,145,Antibiotic,Yes,No,High,Bacterial infections
+Zithromax,Azithromycin,500mg,Tablet,Pfizer,160,Antibiotic,Yes,No,High,Bacterial infections
+Azee 500,Azithromycin,500mg,Tablet,Cipla,130,Antibiotic,Yes,No,High,Bacterial infections
+Azifast 500,Azithromycin,500mg,Tablet,Glenmark,128,Antibiotic,Yes,No,High,Bacterial infections
+Azibact 500,Azithromycin,500mg,Tablet,Intas,135,Antibiotic,Yes,No,High,Bacterial infections
+Zady 500,Azithromycin,500mg,Tablet,Cadila,140,Antibiotic,Yes,No,High,Bacterial infections
+Atm 500,Azithromycin,500mg,Tablet,Alkem,132,Antibiotic,Yes,No,High,Bacterial infections
+Augmentin 625,Amoxicillin+Clavulanic Acid,625mg,Tablet,GSK,210,Antibiotic,Yes,No,High,Bacterial infections
+Moxikind CV,Amoxicillin+Clavulanic Acid,625mg,Tablet,Mankind,185,Antibiotic,Yes,No,High,Bacterial infections
+Clavam 625,Amoxicillin+Clavulanic Acid,625mg,Tablet,Alkem,195,Antibiotic,Yes,No,High,Bacterial infections
+Amoxyclav 625,Amoxicillin+Clavulanic Acid,625mg,Tablet,Cipla,190,Antibiotic,Yes,No,High,Bacterial infections
+Novamox CV,Amoxicillin+Clavulanic Acid,625mg,Tablet,Cipla,188,Antibiotic,Yes,No,High,Bacterial infections
+Taxim O 200,Cefixime,200mg,Tablet,Alkem,185,Antibiotic,Yes,No,High,Bacterial infections
+Zifi 200,Cefixime,200mg,Tablet,FDC,178,Antibiotic,Yes,No,High,Bacterial infections
+Cefix 200,Cefixime,200mg,Tablet,Cipla,172,Antibiotic,Yes,No,High,Bacterial infections
+Topcef 200,Cefixime,200mg,Tablet,Torrent,180,Antibiotic,Yes,No,High,Bacterial infections
+Omez 20,Omeprazole,20mg,Capsule,Dr Reddys,65,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Ocid 20,Omeprazole,20mg,Capsule,Cipla,58,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Omsar 20,Omeprazole,20mg,Capsule,Mankind,55,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Prilosec,Omeprazole,20mg,Capsule,AstraZeneca,80,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Pan 40,Pantoprazole,40mg,Tablet,Alkem,72,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Pantocid 40,Pantoprazole,40mg,Tablet,Sun Pharma,68,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Pantop 40,Pantoprazole,40mg,Tablet,Aristo,65,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Nexpro 40,Esomeprazole,40mg,Tablet,Torrent,95,Antacid/PPI,Yes,Yes,Low,Acidity and GERD
+Nexium 40,Esomeprazole,40mg,Tablet,AstraZeneca,120,Antacid/PPI,Yes,Yes,Low,Acidity and GERD
+Esoz 40,Esomeprazole,40mg,Tablet,Sun Pharma,88,Antacid/PPI,Yes,Yes,Low,Acidity and GERD
+Razo 20,Rabeprazole,20mg,Tablet,Dr Reddys,75,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Rablet 20,Rabeprazole,20mg,Tablet,Lupin,70,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Rekool 20,Rabeprazole,20mg,Tablet,Emcure,68,Antacid/PPI,Yes,Yes,Low,Acidity and gastric ulcers
+Metformin 500,Metformin,500mg,Tablet,Various,15,Antidiabetic,Yes,Yes,Medium,Type 2 diabetes management
+Glycomet 500,Metformin,500mg,Tablet,USV,18,Antidiabetic,Yes,Yes,Medium,Type 2 diabetes management
+Glucophage,Metformin,500mg,Tablet,Merck,25,Antidiabetic,Yes,Yes,Medium,Type 2 diabetes management
+Obimet 500,Metformin,500mg,Tablet,Glenmark,16,Antidiabetic,Yes,Yes,Medium,Type 2 diabetes management
+Cetapin 500,Metformin,500mg,Tablet,Cipla,17,Antidiabetic,Yes,Yes,Medium,Type 2 diabetes management
+Atorva 10,Atorvastatin,10mg,Tablet,Zydus,45,Statin/Cholesterol,Yes,Yes,Medium,High cholesterol management
+Lipitor 10,Atorvastatin,10mg,Tablet,Pfizer,85,Statin/Cholesterol,Yes,Yes,Medium,High cholesterol management
+Storvas 10,Atorvastatin,10mg,Tablet,Sun Pharma,48,Statin/Cholesterol,Yes,Yes,Medium,High cholesterol management
+Tonact 10,Atorvastatin,10mg,Tablet,Lupin,42,Statin/Cholesterol,Yes,Yes,Medium,High cholesterol management
+Rozavel 10,Rosuvastatin,10mg,Tablet,Sun Pharma,95,Statin/Cholesterol,Yes,Yes,Medium,High cholesterol management
+Crestor 10,Rosuvastatin,10mg,Tablet,AstraZeneca,145,Statin/Cholesterol,Yes,Yes,Medium,High cholesterol management
+Rosutor 10,Rosuvastatin,10mg,Tablet,Torrent,88,Statin/Cholesterol,Yes,Yes,Medium,High cholesterol management
+Rozucor 10,Rosuvastatin,10mg,Tablet,Cipla,90,Statin/Cholesterol,Yes,Yes,Medium,High cholesterol management
+Amlip 5,Amlodipine,5mg,Tablet,Cipla,35,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Amlong 5,Amlodipine,5mg,Tablet,Micro Labs,32,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Norvasc 5,Amlodipine,5mg,Tablet,Pfizer,75,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Stamlo 5,Amlodipine,5mg,Tablet,Dr Reddys,38,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Telmikind 40,Telmisartan,40mg,Tablet,Mankind,55,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Telma 40,Telmisartan,40mg,Tablet,Glenmark,65,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Telsartan 40,Telmisartan,40mg,Tablet,Dr Reddys,60,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Telvas 40,Telmisartan,40mg,Tablet,Sun Pharma,58,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Cetzine,Cetirizine,10mg,Tablet,Dr Reddys,22,Antihistamine,No,Yes,Low,Allergies and hay fever
+Okacet,Cetirizine,10mg,Tablet,Cipla,18,Antihistamine,No,Yes,Low,Allergies and hay fever
+Alerid,Cetirizine,10mg,Tablet,Cipla,20,Antihistamine,No,Yes,Low,Allergies and hay fever
+Zyrtec,Cetirizine,10mg,Tablet,GSK,45,Antihistamine,No,Yes,Low,Allergies and hay fever
+Cetcip,Cetirizine,10mg,Tablet,Cipla,16,Antihistamine,No,Yes,Low,Allergies and hay fever
+Levocet,Levocetirizine,5mg,Tablet,Cipla,28,Antihistamine,No,Yes,Low,Allergies and urticaria
+Lcz,Levocetirizine,5mg,Tablet,Sun Pharma,32,Antihistamine,No,Yes,Low,Allergies and urticaria
+Xyzal,Levocetirizine,5mg,Tablet,GSK,55,Antihistamine,No,Yes,Low,Allergies and urticaria
+Ibugesic 400,Ibuprofen,400mg,Tablet,Cipla,25,NSAID/Analgesic,No,Yes,Low,Pain and inflammation
+Brufen 400,Ibuprofen,400mg,Tablet,Abbott,35,NSAID/Analgesic,No,Yes,Low,Pain and inflammation
+Combiflam,Ibuprofen+Paracetamol,400mg+325mg,Tablet,Sanofi,32,NSAID/Analgesic,No,Yes,Low,Pain fever and inflammation
+Imol Plus,Ibuprofen+Paracetamol,400mg+325mg,Tablet,Alkem,28,NSAID/Analgesic,No,Yes,Low,Pain fever and inflammation
+Voveran 50,Diclofenac,50mg,Tablet,Novartis,35,NSAID/Analgesic,Yes,Yes,Low,Pain and inflammation
+Voltaren 50,Diclofenac,50mg,Tablet,Novartis,40,NSAID/Analgesic,Yes,Yes,Low,Pain and inflammation
+Reactin 50,Diclofenac,50mg,Tablet,Cipla,22,NSAID/Analgesic,Yes,Yes,Low,Pain and inflammation
+Nise 100,Nimesulide,100mg,Tablet,Dr Reddys,28,NSAID/Analgesic,Yes,Yes,Low,Pain and fever
+Nimulid 100,Nimesulide,100mg,Tablet,Panacea Biotec,25,NSAID/Analgesic,Yes,Yes,Low,Pain and fever
+Nicip 100,Nimesulide,100mg,Tablet,Cipla,22,NSAID/Analgesic,Yes,Yes,Low,Pain and fever
+Shelcal 500,Calcium Carbonate+Vit D3,500mg+250IU,Tablet,Elder,85,Supplement,No,Yes,Low,Calcium deficiency
+Calcirol,Cholecalciferol,60000IU,Capsule,Cadila,45,Supplement,No,Yes,Low,Vitamin D deficiency
+Uprise D3,Cholecalciferol,60000IU,Capsule,Sun Pharma,48,Supplement,No,Yes,Low,Vitamin D deficiency
+Limcee,Vitamin C,500mg,Chewable Tablet,Abbott,30,Supplement,No,Yes,Low,Vitamin C deficiency
+Becosules,B Complex+Vitamin C,Various,Capsule,Pfizer,65,Supplement,No,Yes,Low,B vitamin deficiency
+Neurobion Forte,Vitamin B Complex,Various,Tablet,Merck,55,Supplement,No,Yes,Low,B vitamin deficiency
+Metrogyl 400,Metronidazole,400mg,Tablet,J B Chemicals,38,Antibiotic,Yes,No,High,Bacterial and parasitic infections
+Flagyl 400,Metronidazole,400mg,Tablet,Abbott,45,Antibiotic,Yes,No,High,Bacterial and parasitic infections
+Norflox 400,Norfloxacin,400mg,Tablet,Cipla,42,Antibiotic,Yes,No,High,Urinary tract infections
+Norbactin 400,Norfloxacin,400mg,Tablet,Dr Reddys,38,Antibiotic,Yes,No,High,Urinary tract infections
+Ciplox 500,Ciprofloxacin,500mg,Tablet,Cipla,55,Antibiotic,Yes,No,High,Bacterial infections
+Cifran 500,Ciprofloxacin,500mg,Tablet,Sun Pharma,52,Antibiotic,Yes,No,High,Bacterial infections
+Gluconorm G1,Metformin+Glimepiride,500mg+1mg,Tablet,Lupin,45,Antidiabetic,Yes,No,High,Type 2 diabetes
+Amaryl M1,Metformin+Glimepiride,500mg+1mg,Tablet,Sanofi,58,Antidiabetic,Yes,No,High,Type 2 diabetes
+Glimisave M1,Metformin+Glimepiride,500mg+1mg,Tablet,Eris,42,Antidiabetic,Yes,No,High,Type 2 diabetes
+Deplatt A 75,Aspirin+Atorvastatin,75mg+10mg,Tablet,Cipla,85,Antiplatelet,Yes,No,High,Heart disease prevention
+Ecosprin AV,Aspirin+Atorvastatin,75mg+20mg,Tablet,USV,92,Antiplatelet,Yes,No,High,Heart disease prevention
+Ecosprin 75,Aspirin,75mg,Tablet,USV,25,Antiplatelet,Yes,No,High,Blood clot prevention
+Loprin 75,Aspirin,75mg,Tablet,Sun Pharma,22,Antiplatelet,Yes,No,High,Blood clot prevention
+Thyronorm 50,Levothyroxine,50mcg,Tablet,Abbott,42,Thyroid,Yes,No,Critical,Hypothyroidism
+Eltroxin 50,Levothyroxine,50mcg,Tablet,GSK,38,Thyroid,Yes,No,Critical,Hypothyroidism
+Thyrox 50,Levothyroxine,50mcg,Tablet,Macleods,35,Thyroid,Yes,No,Critical,Hypothyroidism
+Nexito 10,Escitalopram,10mg,Tablet,Sun Pharma,85,Antidepressant,Yes,No,Critical,Depression and anxiety
+Cipralex 10,Escitalopram,10mg,Tablet,Lundbeck,145,Antidepressant,Yes,No,Critical,Depression and anxiety
+Rexipra 10,Escitalopram,10mg,Tablet,Intas,78,Antidepressant,Yes,No,Critical,Depression and anxiety
+Stalopam 10,Escitalopram,10mg,Tablet,Centaur,75,Antidepressant,Yes,No,Critical,Depression and anxiety
+Tryptomer 10,Amitriptyline,10mg,Tablet,Merck,28,Antidepressant,Yes,No,Critical,Depression and nerve pain
+Sarotena 25,Amitriptyline,25mg,Tablet,Novartis,45,Antidepressant,Yes,No,Critical,Depression and nerve pain
+Clonotril 0.5,Clonazepam,0.5mg,Tablet,Sun Pharma,32,Antiepileptic,Yes,No,Critical,Epilepsy and anxiety
+Rivotril 0.5,Clonazepam,0.5mg,Tablet,Roche,65,Antiepileptic,Yes,No,Critical,Epilepsy and anxiety
+Epitril 0.5,Clonazepam,0.5mg,Tablet,Cipla,28,Antiepileptic,Yes,No,Critical,Epilepsy and anxiety
+Metpure XL 25,Metoprolol,25mg,Tablet,Unichem,38,Beta Blocker,Yes,No,High,High blood pressure and heart
+Betaloc 25,Metoprolol,25mg,Tablet,AstraZeneca,75,Beta Blocker,Yes,No,High,High blood pressure and heart
+Revelol 25,Metoprolol,25mg,Tablet,Emcure,35,Beta Blocker,Yes,No,High,High blood pressure and heart
+Losartan 50,Losartan,50mg,Tablet,Various,25,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Losar 50,Losartan,50mg,Tablet,Cipla,35,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Covance 50,Losartan,50mg,Tablet,Sun Pharma,42,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Repace 50,Losartan,50mg,Tablet,Sun Pharma,38,Antihypertensive,Yes,Yes,Medium,High blood pressure
+Montair 10,Montelukast,10mg,Tablet,Cipla,95,Antiasthmatic,Yes,Yes,Medium,Asthma and allergies
+Singulair 10,Montelukast,10mg,Tablet,MSD,165,Antiasthmatic,Yes,Yes,Medium,Asthma and allergies
+Telekast 10,Montelukast,10mg,Tablet,Lupin,88,Antiasthmatic,Yes,Yes,Medium,Asthma and allergies
+Budecort 200,Budesonide,200mcg,Inhaler,AstraZeneca,285,Antiasthmatic,Yes,No,Critical,Asthma management
+Foracort 200,Budesonide+Formoterol,200mcg,Inhaler,Cipla,495,Antiasthmatic,Yes,No,Critical,Asthma management
+Seroflo 250,Fluticasone+Salmeterol,250mcg,Inhaler,Cipla,595,Antiasthmatic,Yes,No,Critical,Asthma management
+Allegra 120,Fexofenadine,120mg,Tablet,Sanofi,85,Antihistamine,No,Yes,Low,Allergies
+Fexova 120,Fexofenadine,120mg,Tablet,Cipla,65,Antihistamine,No,Yes,Low,Allergies
+Telfast 120,Fexofenadine,120mg,Tablet,Sanofi,90,Antihistamine,No,Yes,Low,Allergies
+Cifran OZ,Ciprofloxacin+Ornidazole,500mg+500mg,Tablet,Sun Pharma,95,Antibiotic,Yes,No,High,Bacterial infections
+Norflox TZ,Norfloxacin+Tinidazole,400mg+600mg,Tablet,Cipla,65,Antibiotic,Yes,No,High,GI infections
+Pantodac 40,Pantoprazole+Domperidone,40mg+10mg,Tablet,Zydus,85,Antacid,Yes,Yes,Low,Acidity with nausea
+Raciper Plus,Esomeprazole+Domperidone,40mg+10mg,Tablet,Emcure,92,Antacid,Yes,Yes,Low,Acidity with nausea
+Domperi 10,Domperidone,10mg,Tablet,Cipla,25,Antiemetic,Yes,Yes,Low,Nausea and vomiting
+Vomistop 10,Domperidone,10mg,Tablet,Sun Pharma,28,Antiemetic,Yes,Yes,Low,Nausea and vomiting
+Motilium 10,Domperidone,10mg,Tablet,Janssen,55,Antiemetic,Yes,Yes,Low,Nausea and vomiting
+Ondem 4,Ondansetron,4mg,Tablet,Alkem,35,Antiemetic,Yes,Yes,Low,Nausea and vomiting
+Emeset 4,Ondansetron,4mg,Tablet,Cipla,32,Antiemetic,Yes,Yes,Low,Nausea and vomiting
+Zofer 4,Ondansetron,4mg,Tablet,Sun Pharma,30,Antiemetic,Yes,Yes,Low,Nausea and vomiting
+Dolo 250,Paracetamol,250mg,Syrup,Micro Labs,45,Analgesic/Antipyretic,No,Yes,Low,Fever in children
+Crocin 250,Paracetamol,250mg,Syrup,GSK,48,Analgesic/Antipyretic,No,Yes,Low,Fever in children
+Febrex Plus,Paracetamol+Phenylephrine,325mg+5mg,Tablet,Indoco,35,Cold and Flu,No,Yes,Low,Cold and fever
+Sinarest,Paracetamol+Phenylephrine+CPM,325mg,Tablet,Centaur,28,Cold and Flu,No,Yes,Low,Cold and congestion
+Coldact,Paracetamol+Chlorpheniramine,500mg+4mg,Capsule,Sun Pharma,32,Cold and Flu,No,Yes,Low,Cold and allergies
+D Cold Total,Paracetamol+Phenylephrine,500mg+10mg,Tablet,Novartis,38,Cold and Flu,No,Yes,Low,Cold and congestion
+Glycomet GP1,Metformin+Glipizide,500mg+5mg,Tablet,USV,48,Antidiabetic,Yes,No,High,Type 2 diabetes
+Janumet 50,Metformin+Sitagliptin,500mg+50mg,Tablet,MSD,185,Antidiabetic,Yes,No,High,Type 2 diabetes
+Vildaglip M,Metformin+Vildagliptin,500mg+50mg,Tablet,Novartis,155,Antidiabetic,Yes,No,High,Type 2 diabetes
+Telma H,Telmisartan+Hydrochlorothiazide,40mg+12.5mg,Tablet,Glenmark,85,Antihypertensive,Yes,No,High,High blood pressure
+Amlopin AT,Amlodipine+Atenolol,5mg+50mg,Tablet,Sun Pharma,75,Antihypertensive,Yes,No,High,High blood pressure
+Stamlo Beta,Amlodipine+Metoprolol,5mg+50mg,Tablet,Dr Reddys,88,Antihypertensive,Yes,No,High,High blood pressure
+Rantac 150,Ranitidine,150mg,Tablet,J B Chemicals,18,Antacid/H2 Blocker,No,Yes,Low,Acidity and ulcers
+Zinetac 150,Ranitidine,150mg,Tablet,GSK,25,Antacid/H2 Blocker,No,Yes,Low,Acidity and ulcers
+Aciloc 150,Ranitidine,150mg,Tablet,Cadila,16,Antacid/H2 Blocker,No,Yes,Low,Acidity and ulcers
+Digene,Aluminium+Magnesium Hydroxide,Various,Tablet,Abbott,28,Antacid,No,Yes,Low,Acidity and heartburn
+Gelusil,Aluminium+Magnesium Hydroxide,Various,Tablet,Pfizer,32,Antacid,No,Yes,Low,Acidity and heartburn
+Mucaine,Aluminium+Magnesium+Oxethazaine,Various,Suspension,Pfizer,85,Antacid,No,Yes,Low,Severe acidity
+Cetrizet D,Cetirizine+Phenylephrine,5mg+5mg,Tablet,Sun Pharma,35,Antihistamine,No,Yes,Low,Cold and allergies
+Nasoclear,Sodium Chloride,0.9%,Nasal Spray,Dr Reddys,85,Nasal Decongestant,No,Yes,Low,Nasal congestion
+Otrivin,Xylometazoline,0.1%,Nasal Spray,Novartis,95,Nasal Decongestant,No,Yes,Low,Nasal congestion
+Saridon,Paracetamol+Propyphenazone+Caffeine,250mg,Tablet,Bayer,22,Analgesic,No,Yes,Low,Headache and pain
+Crocin Pain Relief,Paracetamol+Caffeine,500mg+65mg,Tablet,GSK,35,Analgesic,No,Yes,Low,Headache and pain
+Volini Gel,Diclofenac,1%,Gel,Sun Pharma,135,Topical NSAID,No,Yes,Low,Muscle pain topical
+Moov,Linseed oil+Methyl Salicylate,Various,Cream,Reckitt,85,Topical Analgesic,No,Yes,Low,Joint and muscle pain
+Iodex,Methyl Salicylate,Various,Balm,GSK,45,Topical Analgesic,No,Yes,Low,Joint and muscle pain
+Glucon D,Glucose,Various,Powder,Heinz,95,Supplement,No,Yes,Low,Energy supplement
+ORS,Oral Rehydration Salts,Various,Powder,Various,15,Supplement,No,Yes,Low,Dehydration
+Electral,Oral Rehydration Salts,Various,Powder,FDC,22,Supplement,No,Yes,Low,Dehydration
+Dettol,Chloroxylenol,4.8%,Antiseptic,Reckitt,85,Antiseptic,No,Yes,Low,Wound cleaning
+Betadine,Povidone Iodine,5%,Solution,Win Medicare,65,Antiseptic,No,Yes,Low,Wound cleaning
+Soframycin,Framycetin,1%,Cream,Roussel,55,Antibiotic Topical,No,Yes,Low,Skin infections
+Neosporin,Neomycin+Polymyxin,Various,Cream,J&J,75,Antibiotic Topical,No,Yes,Low,Skin infections
+Candid B,Clotrimazole+Beclomethasone,1%,Cream,Glenmark,95,Antifungal,Yes,Yes,Low,Fungal skin infections
+Clotrimazole,Clotrimazole,1%,Cream,Various,25,Antifungal,Yes,Yes,Low,Fungal infections
+Terbicip,Terbinafine,1%,Cream,Cipla,85,Antifungal,Yes,Yes,Low,Fungal infections
+Lamisil,Terbinafine,1%,Cream,Novartis,145,Antifungal,Yes,Yes,Low,Fungal infections
+Zentel,Albendazole,400mg,Tablet,GSK,35,Antiparasitic,Yes,Yes,Low,Worm infections
+Bandy,Albendazole,400mg,Tablet,Mankind,22,Antiparasitic,Yes,Yes,Low,Worm infections
+Mebex,Mebendazole,100mg,Tablet,Cipla,28,Antiparasitic,Yes,Yes,Low,Worm infections
+Sporidex 500,Cephalexin,500mg,Capsule,Cipla,85,Antibiotic,Yes,No,High,Bacterial infections
+Lycin 500,Cephalexin,500mg,Capsule,Alkem,75,Antibiotic,Yes,No,High,Bacterial infections
+Monocef 1g,Ceftriaxone,1g,Injection,Aristo,185,Antibiotic,Yes,No,Critical,Severe bacterial infections
+Mahacef 1g,Ceftriaxone,1g,Injection,Mankind,165,Antibiotic,Yes,No,Critical,Severe bacterial infections
+Dexona,Dexamethasone,0.5mg,Tablet,Zydus,12,Steroid,Yes,No,Critical,Inflammation and allergies
+Wysolone 5,Prednisolone,5mg,Tablet,Pfizer,18,Steroid,Yes,No,Critical,Inflammation and autoimmune
+Omnacortil 5,Prednisolone,5mg,Tablet,Macleods,15,Steroid,Yes,No,Critical,Inflammation and autoimmune
+Folvite,Folic Acid,5mg,Tablet,Pfizer,28,Supplement,No,Yes,Low,Folic acid deficiency
+Daflon 500,Micronized Purified Flavonoid,500mg,Tablet,Servier,185,Venotonic,Yes,Yes,Low,Piles and varicose veins
+Reparil,Aescin,20mg,Tablet,Madaus,145,Venotonic,Yes,Yes,Low,Swelling and inflammation
+Urimax 0.4,Tamsulosin,0.4mg,Capsule,Cipla,165,Alpha Blocker,Yes,No,High,Enlarged prostate
+Flomax 0.4,Tamsulosin,0.4mg,Capsule,Boehringer,245,Alpha Blocker,Yes,No,High,Enlarged prostate
+Dynapress 0.4,Tamsulosin,0.4mg,Capsule,Sun Pharma,155,Alpha Blocker,Yes,No,High,Enlarged prostate
+Galvus Met,Vildagliptin+Metformin,50mg+500mg,Tablet,Novartis,165,Antidiabetic,Yes,No,High,Type 2 diabetes
+Trajenta,Linagliptin,5mg,Tablet,Boehringer,185,Antidiabetic,Yes,No,High,Type 2 diabetes
+Glyxambi,Empagliflozin+Linagliptin,10mg+5mg,Tablet,Boehringer,285,Antidiabetic,Yes,No,High,Type 2 diabetes
+Jardiance 10,Empagliflozin,10mg,Tablet,Boehringer,265,Antidiabetic,Yes,No,High,Type 2 diabetes
+Forxiga 10,Dapagliflozin,10mg,Tablet,AstraZeneca,245,Antidiabetic,Yes,No,High,Type 2 diabetes
+Triglide,Fenofibrate,145mg,Tablet,Sun Pharma,95,Lipid Lowering,Yes,Yes,Medium,High triglycerides
+Lipanthyl,Fenofibrate,145mg,Tablet,Abbott,145,Lipid Lowering,Yes,Yes,Medium,High triglycerides
+Ezetrol,Ezetimibe,10mg,Tablet,MSD,185,Cholesterol,Yes,Yes,Medium,High cholesterol
+Ezedoc,Ezetimibe,10mg,Tablet,Sun Pharma,145,Cholesterol,Yes,Yes,Medium,High cholesterol
+Gudcef 200,Cefpodoxime,200mg,Tablet,Lupin,175,Antibiotic,Yes,No,High,Bacterial infections
+Cepodem 200,Cefpodoxime,200mg,Tablet,Sun Pharma,168,Antibiotic,Yes,No,High,Bacterial infections
+Moxicip 400,Moxifloxacin,400mg,Tablet,Cipla,185,Antibiotic,Yes,No,High,Respiratory infections
+Avelox 400,Moxifloxacin,400mg,Tablet,Bayer,265,Antibiotic,Yes,No,High,Respiratory infections
+Levaquin 500,Levofloxacin,500mg,Tablet,J&J,145,Antibiotic,Yes,No,High,Bacterial infections
+Levoflox 500,Levofloxacin,500mg,Tablet,Sun Pharma,95,Antibiotic,Yes,No,High,Bacterial infections

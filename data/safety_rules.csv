@@ -1,0 +1,31 @@
+category,switch_risk_level,can_switch,warning_message,recommendation
+Antibiotic,High,No,Never switch antibiotics without doctor advice. Wrong antibiotic can cause resistance.,Consult your doctor or pharmacist before considering any switch
+Antidepressant,Critical,No,Psychiatric medications require careful monitoring. Switching can cause serious withdrawal.,Never switch antidepressants without psychiatrist supervision
+Antiepileptic,Critical,No,Epilepsy medicines require therapeutic drug monitoring. Switching brands can trigger seizures.,Never switch epilepsy medication without neurologist approval
+Thyroid,Critical,No,Thyroid medicines require precise dosing. Even small changes affect hormone levels.,Never switch thyroid medication without endocrinologist approval
+Steroid,Critical,No,Steroids require careful tapering and monitoring. Self-switching is dangerous.,Always consult doctor before changing steroid medication
+Antihypertensive,Medium,Yes,Blood pressure medicines can be switched but monitor BP closely for 2 weeks.,Switch only with pharmacist guidance and monitor blood pressure daily
+Antidiabetic,Medium,Yes,Diabetes medicines can be switched but blood sugar must be monitored carefully.,Switch only with doctor knowledge and monitor blood sugar daily
+Statin/Cholesterol,Medium,Yes,Cholesterol medicines are generally switchable but inform your doctor.,Inform your doctor when switching cholesterol medication
+Beta Blocker,High,No,Beta blockers affect heart rhythm. Switching requires medical supervision.,Consult cardiologist before switching heart medications
+Antiplatelet,High,No,Blood thinners are critical for heart patients. Never self-switch.,Always consult cardiologist before changing blood thinner medication
+Analgesic/Antipyretic,Low,Yes,Pain and fever medicines with same salt are safely interchangeable.,Safe to switch to generic with same salt and dosage
+NSAID/Analgesic,Low,Yes,NSAIDs with same salt can be switched. Avoid if you have stomach issues.,Safe to switch. Take with food to avoid stomach irritation
+Antihistamine,Low,Yes,Allergy medicines with same salt are safely interchangeable.,Safe to switch to generic equivalent
+Antacid/PPI,Low,Yes,Acidity medicines with same salt are generally interchangeable.,Safe to switch. Same salt means same effectiveness
+Antacid,Low,Yes,Antacids are generally safe to switch between brands.,Safe to switch to any equivalent antacid
+Supplement,Low,Yes,Vitamins and supplements are always safe to switch to generic.,Always safe to buy generic supplements. Save money freely
+Antifungal,Low,Yes,Topical antifungals with same salt are interchangeable.,Safe to switch topical antifungal creams
+Antiparasitic,Low,Yes,Deworming medicines with same salt are interchangeable.,Safe to switch deworming medication
+Antiasthmatic,High,No,Asthma inhalers require specific device training. Switching needs guidance.,Consult pulmonologist before switching inhaler brands
+Cold and Flu,Low,Yes,Cold medicines with same composition are interchangeable.,Safe to switch cold medicines with same ingredients
+Antiemetic,Low,Yes,Anti-nausea medicines with same salt are interchangeable.,Safe to switch anti-nausea medication
+Venotonic,Low,Yes,Vein medicines with same salt are generally interchangeable.,Safe to switch with same salt composition
+Alpha Blocker,High,No,Prostate medicines require careful dose adjustment.,Consult urologist before switching prostate medication
+Lipid Lowering,Medium,Yes,Lipid lowering medicines can be switched but inform your doctor.,Inform doctor when switching lipid lowering medication
+Nasal Decongestant,Low,Yes,Nasal sprays with same salt are safely interchangeable.,Safe to switch nasal decongestant sprays
+Topical NSAID,Low,Yes,Topical pain gels with same salt are interchangeable.,Safe to switch topical pain relief gels
+Topical Analgesic,Low,Yes,Topical pain creams are generally interchangeable.,Safe to switch topical pain creams
+Antiseptic,Low,Yes,Antiseptics are generally interchangeable for wound care.,Safe to switch antiseptic solutions
+Antibiotic Topical,Low,Yes,Topical antibiotic creams with same salt are interchangeable.,Safe to switch topical antibiotic creams
+Antacid/H2 Blocker,Low,Yes,H2 blockers with same salt are safely interchangeable.,Safe to switch acidity medicines
